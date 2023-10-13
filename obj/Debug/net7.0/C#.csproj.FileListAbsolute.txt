@@ -1,0 +1,14 @@
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/bin/Debug/net7.0/C#
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/bin/Debug/net7.0/C#.deps.json
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/bin/Debug/net7.0/C#.runtimeconfig.json
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/bin/Debug/net7.0/C#.dll
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/bin/Debug/net7.0/C#.pdb
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.dll
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/refint/C#.dll
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.pdb
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/home/leonardo/Desktop/projetos/C#/novoprojetoC#/obj/Debug/net7.0/ref/C#.dll
